@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>resources/data/lipo_levels.txt</file>
+        <file>resources/data/platform_levels.txt</file>
+        <file>resources/data/sample_error_message.txt</file>
+    </qresource>
+    <qresource prefix="/static_resources"/>
+</RCC>
